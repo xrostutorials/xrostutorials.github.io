@@ -120,3 +120,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# cd ~/Documents/Workspaces/Websites/xrostutorials.github.io
+# git diff
+# git add . ; git commit -m "WIP"; git push
